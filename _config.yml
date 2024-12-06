@@ -26,8 +26,8 @@ url                      : "https://Hochinwei.github.io" # the base hostname & p
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "assets/images/Profile pic.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Ho Chin Wei" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -92,7 +92,7 @@ baidu_site_verification  :
 twitter:
   username               : "@Hochinwei_"
 facebook:
-  username               :
+  username               : "Ho Chin Wei"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Ho Chin Wei"
   avatar           : "/assets/images/Profile pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person!"
+  bio              : "MSc student in Social Research from the University of Hull"
   location         : "Hull, England"
-  email            :
+  email            : "hochinwei79@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:hochinwei79@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

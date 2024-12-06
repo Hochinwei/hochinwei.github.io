@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 ---
-# 👋 Hi there, <br/> I'm Ho Chin Wei.
+# 👋 Hi there, <br/> I'm Chin Wei.
 
 ### I'm a MSc psychology researcher at the University of Hull, with a focus on understanding interactions with Artificial Intelligence.
 
