@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "About Me"
-permalink: /about/
+title: "CV"
+permalink: /CV/
 ---
 
 Hi there! I’m currently pursuing an MSc in Social Research at the University of Hull as part of the prestigious White Rose Doctoral Training Partnership [(WRDTP)](https://wrdtp.ac.uk/). This means I’ll be continuing my academic journey here for my PhD, diving deeper into the fascinating intersection of Human-AI interaction. My primary research focus lies in understanding how we process AI-generated content — mainly keeping the human at the center of the conversation.
