@@ -21,7 +21,7 @@ title                    : "Ho Chin Wei"
 title_separator          : "-"
 subtitle                 :  University of Hull # site tagline that appears below site title in masthead
 name                     : "Ho Chin Wei"
-description              : "MSc Student at the University of Hull"
+description              : "MSc Student at the University of Hull 😮"
 url                      : "https://Hochinwei.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Ho Chin Wei"
   avatar           : "/assets/images/Profile pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MSc student in Social Research from the University of Hull"
-  location         : "Hull, England"
+  bio              : "MSc student in Social Research from the University of Hull! 😮"
+  location         : "Hull, UK"
   email            : "hochinwei79@gmail.com"
   links:
     - label: "Email"
@@ -125,9 +125,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://x.com/HoChinWei_"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -143,7 +143,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://x.com/HoChinWei_"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -158,7 +158,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://www.instagram.com/hochinwei/
 
 
 # Reading Files
